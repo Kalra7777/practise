@@ -1,1 +1,1 @@
-lvl./ 2
+In Git, a "feature" typically refers to a branch dedicated to implementing a specific piece of functionality or making a particular change in the codebase. These branches are usually created off of the main development branch (often named 'master' or 'main') and are merged back into the main branch once the feature is complete and tested
